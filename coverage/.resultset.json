@@ -1,15 +1,38 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Student/projects/course/bookmark_manager/bookmark_v_s/spec/features/viewing_bookmarks_spec.rb": [
+      "/Users/Student/projects/bookmark_v_s/spec/bookmark_spec.rb": [
+        1,
+        null,
         1,
         1,
         1,
         1,
         null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/Student/projects/bookmark_v_s/spec/features/viewing_bookmarks_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
         null
       ]
     },
-    "timestamp": 1571663314
+    "timestamp": 1571665068
   }
 }
