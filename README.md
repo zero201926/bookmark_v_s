@@ -8,6 +8,10 @@ I would like to see a list of bookmarks
 As a user
 So I can store bookmark data for later retrieval
 I want to add a bookmark to Bookmark Manager
+
+As a user
+So I can remove my bookmark from Bookmark Manager
+I want to delete a bookmark
 ```
 
 The website will have the following specification:
